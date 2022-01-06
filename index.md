@@ -4,7 +4,7 @@
 
 汉化文本开源链接：<a href="https://gitee.com/boris9348/gta4">https://gitee.com/boris9348/gta4</a>
 
- <a href="https://gitee.com/boris9348/gta4/issues" ><u>文本质量反馈</u></a>
+ <a href="https://gitee.com/boris9348/gta4/issues" style="text-decoration:underline">文本质量反馈</a>
 
 <ul>已知问题：
 <li> 目前已知回复邮件和浏览恋爱网站会闪退</li>
