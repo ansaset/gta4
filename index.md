@@ -4,11 +4,11 @@
 
 汉化文本开源链接：<a href="https://gitee.com/boris9348/gta4">https://gitee.com/boris9348/gta4</a>
 
- <a href="https://gitee.com/boris9348/gta4/issues" style="text-decoration:underline">文本质量反馈</a>
+ <a href="https://gitee.com/boris9348/gta4/issues" >点此反馈文本问题</a>
 
 <ul>已知问题：
+<li>还在寻找有无翻译不当或更合适的翻译方式，以及标点符号等造成的不美观问题 </li>
 <li> 目前已知回复邮件和浏览恋爱网站会闪退</li>
-
 <li> 网页未翻译</li>
 <li> 存档乱码</li>
 </ul>
